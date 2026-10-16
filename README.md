@@ -1,7 +1,7 @@
 <div align="center">
 
   <!-- CRISP, DYNAMIC RESPONSIVE BANNER -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=10,14,24&height=220&section=header&text=Shaurya%20Shah%20⚡&fontSize=48&fontAlignY=38&fontColor=00F090&desc=B.Tech%20IT%20@%20VJTI%20Mumbai%20•%20C++%20Systems%20•%20Full-Stack&descAlignY=62&descAlign=50&descColor=E2E8F0" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=10,14,24&height=220&section=header&text=Shaurya%20Shah%20 &fontSize=48&fontAlignY=38&fontColor=00F090&desc=B.Tech%20IT%20@%20VJTI%20Mumbai%20•%20C++%20Systems%20•%20Full-Stack&descAlignY=62&descAlign=50&descColor=E2E8F0" width="100%"/>
 
   <!-- LIVE TYPING ANIMATION -->
   <a href="https://github.com/shaurya212121">
