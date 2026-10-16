@@ -1,11 +1,11 @@
 <div align="center">
 
   <!-- CRISP, DYNAMIC RESPONSIVE BANNER -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=10,14,24&height=220&section=header&text=Shaurya%20Shah%20 &fontSize=48&fontAlignY=38&fontColor=00F090&desc=B.Tech%20IT%20@%20VJTI%20Mumbai%20•%20C++%20Systems%20•%20Full-Stack&descAlignY=62&descAlign=50&descColor=E2E8F0" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=10,14,24&height=220&section=header&text=Shaurya%20Shah&fontSize=48&fontAlignY=38&fontColor=00F090&desc=B.Tech%20IT%20@%20VJTI%20Mumbai%20•%20C++%20Systems%20•%20Full-Stack&descAlignY=62&descAlign=50&descColor=E2E8F0" width="100%"/>
 
   <!-- LIVE TYPING ANIMATION -->
   <a href="https://github.com/shaurya212121">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=00F090&center=true&vCenter=true&width=700&lines=B.Tech+IT+Sophomore+@+VJTI+Mumbai;High-Performance+C%2B%2B17+Systems+Developer;Building+Low-Latency+Order+Matching+Engines;Architecting+Full-Stack+%26+Real-Time+WebSockets;Smart+India+Hackathon+(SIH)+Developer" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=00F090&center=true&vCenter=true&width=720&lines=B.Tech+IT+Sophomore+@+VJTI+Mumbai;High-Performance+C%2B%2B17+Systems+Developer;Building+Low-Latency+Order+Matching+Engines;Smart+India+Hackathon+(SIH)+Developer;Quant+Finance+%26+Computer+Vision+Engineer" alt="Typing SVG" />
   </a>
 
   <br/><br/>
@@ -34,9 +34,8 @@
 ### 👨‍💻 About Me
 
 - 🎓 **Education:** 2nd Year (SY) B.Tech in **Information Technology (IT)** at **Veermata Jijabai Technological Institute (VJTI), Mumbai**.
-- ⚡ **Core Focus:** Low-latency systems programming in **C++17**, multithreaded architecture, and distributed full-stack applications.
+- ⚡ **Core Focus:** Low-latency systems programming in **C++17**, multithreaded architecture, quantitative financial pipelines, and applied AI/CV.
 - 🛠️ **Systems Passion:** Lock-free orderbooks, memory-sharded concurrency, Write-Ahead Logging (WAL) crash recovery, and real-time ZeroMQ/WebSocket pipelines.
-- 🚀 **Flagship Build:** [TradeVerse](https://github.com/shaurya212121/TradeVerse) — An exchange-grade matching engine stress-tested to 15,000+ ops/sec.
 - 🏆 **Hackathons & Competitions:** Smart India Hackathon (SIH) Participant & Hacktoberfest contributor.
 
 ---
@@ -53,10 +52,10 @@
 | Category | Technologies & Tools |
 | :--- | :--- |
 | **Languages** | C++17/20, C, Python 3, TypeScript, JavaScript, SQL, HTML5/CSS3 |
-| **Systems & Architecture** | Multithreading, ZeroMQ (PUB/SUB, REQ/REP), Lock-Free Sharding, WAL, AST Analysis |
-| **Full-Stack & Backend** | React 19, Next.js, FastAPI, WebSockets, Tailwind CSS, PostgreSQL, Supabase, Redis |
-| **AI / Machine Learning** | Google Gemma LLMs, PyTorch, OpenCV, ONNX Runtime, ChromaDB |
-| **Developer Tools** | Linux / Bash, CMake, Git, GitHub, VS Code, Postman |
+| **Systems & Low-Latency** | Multithreading, ZeroMQ (PUB/SUB, REQ/REP), Lock-Free Sharding, WAL, AST Parsing |
+| **Full-Stack & Cloud** | React 19, Next.js, FastAPI, WebSockets, Tailwind CSS, PostgreSQL, Supabase, Redis |
+| **AI / Machine Learning & CV** | PyTorch, ResNet-18, U-Net, OpenCV, XGBoost, Google Gemma LLM, ONNX Runtime |
+| **Developer Tools** | Linux / Bash, Docker, CMake, Git, GitHub Actions, VS Code, Postman |
 
 ---
 
@@ -70,11 +69,39 @@
       <ul>
         <li>Engineered a multithreaded Price-Time Priority orderbook matching engine in C++17.</li>
         <li>Implemented asynchronous Write-Ahead Logging (WAL) with CRC32 checksums for zero-loss recovery.</li>
-        <li>Built a Python FastAPI WebSocket gateway linking the C++ engine to a real-time React trading terminal.</li>
+        <li>Built a Python FastAPI WebSocket gateway linking the engine to a live React trading terminal.</li>
         <li>Stress-tested to handle <b>15,000+ ops/sec</b> with sub-millisecond execution latencies.</li>
       </ul>
       <p align="center">
         <code>C++17</code> &middot; <code>ZeroMQ</code> &middot; <code>FastAPI</code> &middot; <code>React</code> &middot; <code>TypeScript</code>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">🌊 <a href="https://github.com/shaurya212121/OceanGuard">OceanGuard AI</a> <img src="https://img.shields.io/badge/SIH-Project-FF9933?style=flat-square" /></h3>
+      <p align="center"><b>Autonomous Maritime Oil-Spill Intelligence Platform</b></p>
+      <ul>
+        <li>Built a two-stage SAR oil-spill detection pipeline (ResNet-18 classifier + U-Net segmentation).</li>
+        <li>Engineered a drift simulator modeling ocean currents, wind, and diffusion to backtrace spill origins.</li>
+        <li>Correlated spills to suspect vessels using AIS ship tracks scored into an explainable guilt index.</li>
+        <li>Delivered via a FastAPI backend, Supabase, and an interactive React/Leaflet command dashboard.</li>
+      </ul>
+      <p align="center">
+        <code>PyTorch</code> &middot; <code>FastAPI</code> &middot; <code>React</code> &middot; <code>TypeScript</code> &middot; <code>Supabase</code>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">📈 <a href="https://github.com/shaurya212121/StreamQuant">StreamQuant</a></h3>
+      <p align="center"><b>Real-Time Financial Streaming & Alpha Engine</b></p>
+      <ul>
+        <li>High-throughput quantitative market data pipeline streaming tick-by-tick equity feeds.</li>
+        <li>Trained multi-asset XGBoost models for predictive price signals and statistical arbitrage alpha.</li>
+        <li>Implemented real-time anomaly detection, financial sentiment scoring, and feature engineering.</li>
+        <li>Containerized microservices architecture with PostgreSQL persistence and Docker Compose.</li>
+      </ul>
+      <p align="center">
+        <code>Python</code> &middot; <code>XGBoost</code> &middot; <code>Docker</code> &middot; <code>PostgreSQL</code> &middot; <code>FastAPI</code>
       </p>
     </td>
     <td width="50%" valign="top">
@@ -83,7 +110,7 @@
       <ul>
         <li>AST-based static analyzer detecting deprecated packages, version conflicts, and undeclared direct imports.</li>
         <li>Automated disposable sandboxing that generates, applies, and verifies code migrations using Google Gemma LLM.</li>
-        <li>Produces cryptographic, tamper-evident <b>Exit Capsules</b> documenting full regression results.</li>
+        <li>Produces cryptographic, tamper-evident <b>Exit Capsules</b> documenting full regression test proofs.</li>
       </ul>
       <p align="center">
         <code>Python</code> &middot; <code>Google Gemma</code> &middot; <code>AST</code> &middot; <code>Pytest</code> &middot; <code>FastAPI</code>
