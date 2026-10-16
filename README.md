@@ -120,7 +120,38 @@
 </table>
 
 ---
+---
 
+### 📦 GitHub Summary & Activity
+
+<div align="center">
+  <!-- FULL CONTRIBUTION GRID CHART -->
+  <img src="https://ghchart.rshah.org/00F090/shaurya212121" alt="Shaurya's Github Contribution Chart" width="95%" />
+</div>
+
+<br/>
+
+<div align="center">
+  <!-- PROFILE DETAILS & CONTRIBUTIONS CURVE (From your screenshot) -->
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shaurya212121&theme=tokyonight" width="95%" />
+</div>
+
+<br/>
+
+<div align="center">
+  <!-- STATS CARD (Stars, Commits, PRs, Octocat) -->
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=shaurya212121&theme=tokyonight" width="47%" />
+  &nbsp;
+  <!-- COMMITS BY TIME / HOURLY HISTOGRAM (IST UTC+5.5) -->
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=shaurya212121&theme=tokyonight&utcOffset=5.5" width="47%" />
+</div>
+
+<br/>
+
+<div align="center">
+  <!-- LIVE STREAK STATS COUNTER -->
+  <img src="https://streak-stats.demolab.com/?user=shaurya212121&theme=tokyonight&hide_border=true&background=07080B&stroke=00F090&ring=00F090&fire=FF3B56&currStreakLabel=00F090" height="165" />
+</div>
 ### 🤝 Connect with Me
 
 - 💼 **LinkedIn:** [Shaurya Shah](https://www.linkedin.com/in/shauryashah)
