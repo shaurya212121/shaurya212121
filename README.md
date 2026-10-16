@@ -11,7 +11,7 @@
   <br/><br/>
 
   <!-- SOCIAL LINKS -->
-  <a href="https://www.linkedin.com/in/shauryashah">
+  <a href="https://www.linkedin.com/in/shaurya-shah-3b0169399/">
     <img src="https://img.shields.io/badge/LinkedIn-Shaurya_Shah-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   &nbsp;
@@ -120,7 +120,6 @@
 </table>
 
 ---
----
 
 ### 📦 GitHub Summary & Activity
 
@@ -132,7 +131,7 @@
 <br/>
 
 <div align="center">
-  <!-- PROFILE DETAILS & CONTRIBUTIONS CURVE (From your screenshot) -->
+  <!-- PROFILE DETAILS & CONTRIBUTIONS TIMELINE (From your screenshot) -->
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shaurya212121&theme=tokyonight" width="95%" />
 </div>
 
@@ -152,9 +151,12 @@
   <!-- LIVE STREAK STATS COUNTER -->
   <img src="https://streak-stats.demolab.com/?user=shaurya212121&theme=tokyonight&hide_border=true&background=07080B&stroke=00F090&ring=00F090&fire=FF3B56&currStreakLabel=00F090" height="165" />
 </div>
+
+---
+
 ### 🤝 Connect with Me
 
-- 💼 **LinkedIn:** [Shaurya Shah](https://www.linkedin.com/in/shauryashah)
+- 💼 **LinkedIn:** [Shaurya Shah](https://www.linkedin.com/in/shaurya-shah-3b0169399/)
 - 📸 **Instagram:** [@shauryashah_21](https://instagram.com/shauryashah_21)
 - ✉️ **Direct Email:** [shauryas2107@gmail.com](mailto:shauryas2107@gmail.com)
 - 🏛️ **Campus:** Veermata Jijabai Technological Institute (VJTI), Mumbai
